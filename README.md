@@ -38,8 +38,5 @@ MechanicHub uses a custom-built **Python FastAPI backend** for its network opera
 For the complete network experience, set up the backend first:
 
 **Backend Repository:** `https://github.com/lakshaykarad/MechanicHub_Backend`
-
-## 🎥 Demo
-
-<video src="https://github.com/lakshaykarad/MechanicHub/DEMO.mp4" width="320" height="640" controls></video>
+ 
 
