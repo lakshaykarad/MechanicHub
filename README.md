@@ -41,5 +41,5 @@ For the complete network experience, set up the backend first:
 
 ## 🎥 Demo
 
-<video src="https://github.com/lakshaykarad/MechanicHub/blob/main/GarageGo/app/src/main/java/com/example/systemmonitor/DEMO.mp4" width="320" height="640" controls></video>
+<video src="https://github.com/lakshaykarad/MechanicHub/DEMO.mp4" width="320" height="640" controls></video>
 
